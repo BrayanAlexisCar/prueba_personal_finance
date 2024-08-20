@@ -55,8 +55,9 @@ def on_startup():
 
 @app.get("/")
 async def read_root():
-    return {"mensaje": "hola internautas",
-           
+    return {"mensaje": "hola adso 2670586",
+            "mensaje": "brayan alexis",
+          
             }
 
 
